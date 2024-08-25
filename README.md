@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sthefani07
 - 👀 I’m interested in coding, travel, reading, hiking, and music.
-- 🌱 I’m currently learning Python, HTML, and CSS.
+- 🌱 I’m currently learning JavaScript, Python, HTML, and CSS.
 - 💬 Ask me anything about coding and career change.
 - 📫 How to reach me: www.linkedin.com/in/sthefanidenhof
 
