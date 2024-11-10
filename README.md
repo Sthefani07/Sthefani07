@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sthefani07
 - 👀 I’m interested in coding, travel, reading, hiking, and music.
-- 🌱 I’m currently learning JavaScript, Python, HTML, and CSS.
+- 🌱 I’m currently learning JavaScript (AJAX, JSON), Python, HTML, CSS, Node.js, Express, MongoDB, React, Git, GitHub, Mongoose, NoSQL, Rest
+APIs, VS Code, Bootstrap, JQuery, Redux, DOM Manipulation. Agile Methodologies.
 - 💬 Ask me anything about coding and career change.
 - 📫 How to reach me: www.linkedin.com/in/sthefanidenhof
 
